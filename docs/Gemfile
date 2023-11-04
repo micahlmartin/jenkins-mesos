@@ -10,7 +10,7 @@ gem "kramdown"
 gem "maruku"
 gem "rdiscount"
 gem "redcarpet"
-gem "RedCloth"
+gem "RedCloth", ">= 4.3.3"
 
 # Liquid
 gem "liquid"
