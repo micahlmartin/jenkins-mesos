@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Jekyll
-gem "jekyll"
+gem "jekyll", ">= 3.0.0"
 gem "jekyll-coffeescript"
 gem "jekyll-sass-converter"
 
@@ -21,5 +21,5 @@ gem "pygments.rb"
 # Plugins
 #gem "jemoji"
 #gem "jekyll-mentions"
-gem "jekyll-redirect-from"
+gem "jekyll-redirect-from", ">= 0.9.0"
 gem "jekyll-sitemap"
